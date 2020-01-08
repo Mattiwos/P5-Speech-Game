@@ -1,0 +1,16 @@
+Curr: Data  tranfer 
+CLient -> (arg) location -> Server -> 
+socket.to('room number') 
+- > 
+client transform data to opsite end reflect it 
+
+
+squre pos:
+
+
+
+Goal:
+-Data Transfer between clients 1
+-character development
+-pathfinder
+   

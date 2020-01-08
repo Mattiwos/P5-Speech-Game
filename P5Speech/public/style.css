@@ -1,0 +1,38 @@
+body {
+    background: #003a6d;
+
+}
+h1 {
+    color: #000000;
+}
+#Game-room{
+    max-width: fit-content;
+    margin-left: 70%;
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 20px -15px 10px 1px rgba(0,0,0,0.1);
+    border-radius: 2px;
+
+}
+input{
+    padding: 1% 3%;
+    box-sizing: border-box;
+    background: #eee;
+    border: 0;
+    display: block;
+    width: 100%;
+    background: #000;
+    border-bottom: 1px solid #eee;
+    font-family: Nunito;
+    font-size: medium;
+    color: aliceblue;
+}
+
+button{
+    background: #2d39ff;
+    color: #fff;
+    font-size: large;
+    border: 0;
+    padding: 12px 0;
+    width: -webkit-fill-available;
+    border-radius: 0 0 2px 2px;
+}
